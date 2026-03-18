@@ -62,7 +62,7 @@ export function WaitlistCTA() {
               onClick={openTally}
               className="bg-ubito-cyan hover:bg-ubito-cyan/90 text-ubito-dark font-bold px-10 py-4 rounded-xl transition-all hover:shadow-[0_0_30px_rgba(0,212,255,0.4)] text-sm"
             >
-              Claim my spot
+              Join the Waitlist
             </button>
 
             <p className="text-ubito-muted text-sm mt-5">
